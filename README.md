@@ -2,7 +2,7 @@
 <h3 align="center">Quant Research • Trading Systems Engineering • Data Science</h3>
 
 <p align="center">
-  <a href="mailto:yourmail@email.com">Email</a>
+  <a href="mailto:lucacupellaro7@gmail.com">Email</a>
 </p>
 
 <p align="center">
