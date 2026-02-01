@@ -58,16 +58,8 @@
 ---
 
 ## 🧩 Featured projects
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucacupellaro&repo=NOME_REPO&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucacupellaro&repo=REPO_1&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucacupellaro&repo=REPO_2&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucacupellaro&repo=REPO_3&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucacupellaro&repo=REPO_4&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
