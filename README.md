@@ -60,6 +60,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=PUT_YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PUT_YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+
+
 ---
 
 ## 🧩 Featured repositories
