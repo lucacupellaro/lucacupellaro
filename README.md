@@ -24,11 +24,35 @@
 
 ## 🧭 What I build
 
-- Research pipelines for financial time series
-- Volatility & risk forecasting models
-- Monte Carlo engines for strategy validation
-- Backtesting & trading system infrastructure
-- Portfolio-level risk control analytics
+## 🧩 Featured projects
+
+<p align="center">
+  <a href="https://github.com/lucacupellaro/Statistica">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucacupellaro&repo=Statistica&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/lucacupellaro/PMCSN">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucacupellaro&repo=PMCSN&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/lucacupellaro/SerieTemporali">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucacupellaro&repo=SerieTemporali&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/lucacupellaro/kademlia-nft">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucacupellaro&repo=kademlia-nft&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/lucacupellaro/Mercati-Finanziari">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucacupellaro&repo=Mercati-Finanziari&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/lucacupellaro/scpa_Ax">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucacupellaro&repo=scpa_Ax&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
 
 ---
 
