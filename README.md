@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Luca Cupellaro</h1>
-<h3 align="center">Quant Research • Trading Systems Engineering • Data Science</h3>
+<h3 align="center">Software Engineering • Data Science</h3>
 
 <p align="center">
   <a href="mailto:lucacupellaro7@gmail.com">Email</a>
