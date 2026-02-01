@@ -58,7 +58,7 @@
 ---
 
 ## 🧩 Featured projects
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucacupellaro&repo=NOME_REPO&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucacupellaro&ML_Project&theme=tokyonight&hide_border=true" />
 
 
 ---
